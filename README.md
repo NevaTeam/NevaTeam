@@ -3,7 +3,7 @@
 
 - We are currently working on [Neva-Themes](https://github.com/NevaTeam/neva-themes)
 
-- Founders [jojihatzz](https://github.com/jojihatzz) [4r1s](https://github.com/4r1ss)
+- Founders [jojihatzz](https://github.com/jojihatzz), [4r1s](https://github.com/4r1ss)
 
 
 <h3 align="left">Connect with us:</h3>
