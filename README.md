@@ -9,6 +9,8 @@
 
 - Founders: [jojihatzz](https://github.com/jojihatzz) - [4r1s](https://github.com/4r1ss)
 
+![img](https://media.discordapp.net/attachments/877183270427709480/986338095664332820/uyyuuyuyuy.png)
+
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
