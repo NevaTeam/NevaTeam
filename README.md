@@ -1,3 +1,7 @@
+
+
+![img](https://media.discordapp.net/attachments/877183270427709480/986336111020363886/Neva_Team.png?width=959&height=171)
+
 <h1 align="center">Greetings!</h1>
 <h3 align="center">We started Neva-Themes with the idea of being able to offer the best themes to help Linux users. If you need anything , don't hesitate to contact us! All the best , Neva Team</h3>
 
