@@ -5,7 +5,7 @@
 <h1 align="center">Greetings!</h1>
 <h3 align="center">We started Neva-Themes with the idea of being able to offer the best themes to help Linux users. If you need anything , don't hesitate to contact us! All the best , Neva Team</h3>
 
-- We are currently working on [Neva-Themes](https://github.com/NevaTeam/neva-themes)
+- We are currently working on [Neva-Themes](https://nevateam.github.io/neva-themes/)
 
 - Founders: [jojihatzz](https://github.com/jojihatzz) - [4r1s](https://github.com/4r1ss)
 
